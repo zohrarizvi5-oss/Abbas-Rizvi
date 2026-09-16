@@ -5,7 +5,7 @@ from langchain_core.messages import HumanMessage, AIMessage, SystemMessage
 
 # Page settings
 st.set_page_config(
-    page_title="RizviBot AI",
+    page_title="AbbasBot AI",
     page_icon="🤖"
 )
 
@@ -13,7 +13,7 @@ st.set_page_config(
 st.markdown(
     """
     <div style="text-align: center; padding: 20px 0 10px 0;">
-        <h1 style="margin-bottom: 5px;">🤖 RizviBot AI</h1>
+        <h1 style="margin-bottom: 5px;">🤖 AbbasBot AI</h1>
         <p style="font-size: 18px; color: #777; margin-top: 0;">
             Your AI Assistant
         </p>
